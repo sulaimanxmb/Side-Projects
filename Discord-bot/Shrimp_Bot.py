@@ -2,7 +2,7 @@ import discord
 import asyncio
 import random
 
-TOKEN = 'Nice One diddy'  # ⚠️ Replace with an environment variable in production
+TOKEN = 'Nice One diddy'  
 OWNER_ID = 814869741021560913  # Your Discord user ID
 
 # Define intents
